@@ -1,4 +1,4 @@
-//Mon Jan 05 2026 06:02:43 GMT+0000 (Coordinated Universal Time)
+//Wed Jan 14 2026 08:45:03 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 var _0x1iz = "safekodo.com.V8.3.0";
